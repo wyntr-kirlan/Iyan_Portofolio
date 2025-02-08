@@ -5,7 +5,7 @@ Welcome to Frontend-Engineer portfolio!
 ## Divide This Project into 2 part UI/UX Design and Frontend Engineer
 
 * Software Aplication: VS Code, Visual Studio, & Figma 
-* You can take a look in my linkedin: ![Wiyantoro](https://www.linkedin.com/in/wiyantoro/)
+* You can take a look in my linkedin: [Wiyantoro](www.linkedin.com/in/wiyantoro)
 
 ### Technical Skills:
 
