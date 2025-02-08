@@ -21,6 +21,7 @@ Welcome to Frontend-Engineer portfolio!
 
 ### Project ESG DATA HUB (united tractor)
 ![](https://github.com/wyntr1508/Portofolio/blob/main/ESG%20Data%20Hub/Documentation/landing-page%20ESG%20Data%20HUB.png)
+As a Frontend Engineer, I played a key role in developing, optimizing, and enhancing the UI/UX of the platform, ensuring a seamless and user-friendly experience for sustainability professionals and corporate users.
 
 ## Frontend-Engineer
 *Building fast, responsive, and dynamic web applications by developing intuitive, interactive, and user-friendly interfaces, turning complex concepts into elegant solutions while implementing cutting-edge technologies to optimize performance and ensure seamless integration between frontend and backend systems, bringing modern web experiences to life.*
