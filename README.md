@@ -5,7 +5,7 @@ Welcome to Frontend-Engineer portfolio!
 ## Divide This Project into 2 part UI/UX Design and Frontend Engineer
 
 * Software Aplication: VS Code, Visual Studio, & Figma 
-* You can take a look in my linkedin: ![](link)
+* You can take a look in my linkedin: ![](https://www.linkedin.com/in/wiyantoro/)
 
 ### Technical Skills:
 
@@ -29,4 +29,4 @@ As a Frontend Engineer, I played a key role in developing, optimizing, and enhan
 
 #### Project MaritimHub
 ![](https://github.com/wyntr1508/Portofolio/blob/main/MaritimHub/Documentation/landing-page%20MaritimHub.png)
-
+As a Frontend Engineer, I contributed to the development, optimization, and feature enhancements of the platform, focusing on improving user experience (UI/UX), performance, and accessibility across multiple devices.
