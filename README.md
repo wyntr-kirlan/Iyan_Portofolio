@@ -26,6 +26,6 @@ As a Frontend Engineer, I played a key role in developing, optimizing, and enhan
 ## Frontend-Engineer
 *Building fast, responsive, and dynamic web applications by developing intuitive, interactive, and user-friendly interfaces, turning complex concepts into elegant solutions while implementing cutting-edge technologies to optimize performance and ensure seamless integration between frontend and backend systems, bringing modern web experiences to life.*
 
-### [Project MaritimHub](https://github.com/wyntr1508/Iyan_Portofolio/blob/main/MaritimHub/readme.md)
+### [Project MaritimHub](https://github.com/wyntr1508/Iyan_Portofolio/blob/main/MaritimHub/Sehati.md)
 ![](https://github.com/wyntr1508/Portofolio/blob/main/MaritimHub/Documentation/landing-page%20MaritimHub.png)
 As a Frontend Engineer, I contributed to the development, optimization, and feature enhancements of the platform, focusing on improving user experience (UI/UX), performance, and accessibility across multiple devices.
