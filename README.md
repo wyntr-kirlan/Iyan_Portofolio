@@ -20,7 +20,7 @@ Welcome to Frontend-Engineer portfolio!
 *Transforming complex ideas into clean, user-friendly interfaces by leveraging the latest UI/UX trends to create responsive, interactive, and seamless digital experiences while bridging the gap between design and development for optimal user satisfaction.*
 
 ### [Project ESG DATA HUB](https://github.com/wyntr1508/Iyan_Portofolio/blob/main/ESG%20Data%20Hub/ESG.md)
-![](https://github.com/wyntr1508/Portofolio/blob/main/ESG%20Data%20Hub/Documentation/landing-page%20ESG%20Data%20HUB.png)
+![](https://github.com/wyntr-kirlan/Iyan_Portofolio/blob/main/ESG%20Data%20Hub/Documentation/landing-page%20ESG%20Data%20HUB%20new.png)
 As a Frontend Engineer, I played a key role in developing, optimizing, and enhancing the UI/UX of the platform, ensuring a seamless and user-friendly experience for sustainability professionals and corporate users.
 
 ## Frontend-Engineer
