@@ -10,7 +10,7 @@ Welcome to Frontend-Engineer portfolio!
 ### Technical Skills:
 
 * Angular, JavaScript, TypeScript
-* HTML, CSS, SCSS, Bootstrap, TailwindCSS
+* HTML, CSS, SCSS, Bootstrap, AntDesign (Ng-Zorro)
 * API Integration & Authentication (SSO, OAuth)
 * UI/UX Design, responsive, and Optimization
 * Performance Enhancement & Responsive Design
