@@ -1,20 +1,24 @@
-# My Portofolio
+# Iyan_Portofolio
 
-Welcome to Frontend-Engineer portfolio!
+## Overview
+This is my personal portfolio project built with Angular, showcasing my projects.
 
 ## Divide This Project into 2 part UI/UX Design and Frontend Engineer
 
 * Software Aplication: VS Code, Visual Studio, & Figma 
 * *You can take a look in my linkedin:* [Wiyantoro](https://www.linkedin.com/in/wiyantoro/)
 
-### Technical Skills:
+### Tech Stack
+- Angular
+- TypeScript
+- HTML5, CSS3, SCSS
+- Bootstrap
+- Responsive Design
 
-* Angular, JavaScript, TypeScript
-* HTML, CSS, SCSS, Bootstrap, AntDesign (Ng-Zorro)
-* API Integration & Authentication (SSO, OAuth)
-* UI/UX Design, responsive, and Optimization
-* Performance Enhancement & Responsive Design
-* Database Interaction & Real-Time Data Fetching
+### Features
+- Home, About, Projects, and Contact sections
+- Fully responsive and optimized for various devices
+- Clean, minimalistic UI focused on usability
 
 ## UI/UX Desgin
 *Transforming complex ideas into clean, user-friendly interfaces by leveraging the latest UI/UX trends to create responsive, interactive, and seamless digital experiences while bridging the gap between design and development for optimal user satisfaction.*
