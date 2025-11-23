@@ -75,13 +75,13 @@ Business Problems Identified
 - Reduced manual errors
 - Unified database for sales history
 
-** Business Benefits** 
+**Business Benefits** 
 - Better decision-making through dashboards
 - Reduced loss from stock discrepancies
 - Consistent menu/pricing across delivery channels
 - Scalability for future franchise expansion
 
-** Impact of Automation** 
+**Impact of Automation** 
 - 40–60% faster reporting
 - Reduced stock discrepancies by up to 90%
 - Centralized control for 3 outlets
