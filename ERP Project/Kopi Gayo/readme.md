@@ -1,14 +1,14 @@
-## Implementation of Odoo ERP for Kopi Gaiyo (Multi-Outlet Coffee Shop)
+## Implementation of Odoo ERP for Kopi Gayo (Multi-Outlet Coffee Shop)
 
 ### About Project 
 - Client/Company: Gayo
 - Project Duration: Three Months
 - Objective: Integration with Odoo ERP. 
 
-### Background of Kopi Gaiyo & Integration with Odoo ERP
-Kopi Gaiyo is a growing coffee shop business operating three physical outlets with plans to expand into a franchise model. As transaction volumes increased, the business faced challenges in managing multi-outlet operations, payment processing, inventory synchronization, and delivery platform workflows.
+### Background of Kopi Gayo & Integration with Odoo ERP
+Kopi Gayo is a growing coffee shop business operating three physical outlets with plans to expand into a franchise model. As transaction volumes increased, the business faced challenges in managing multi-outlet operations, payment processing, inventory synchronization, and delivery platform workflows.
 
-To address these challenges, Kopi Gaiyo planned the implementation of Odoo Enterprise as a unified ERP and POS solution. The integration of Odoo allows the business to benefit from:
+To address these challenges, Kopi Gayo planned the implementation of Odoo Enterprise as a unified ERP and POS solution. The integration of Odoo allows the business to benefit from:
 
 - Real-time monitoring of sales and stock across outlets
 - Unified payment channels (QRIS, cash, EDC, delivery platforms)
@@ -36,7 +36,7 @@ Business Problems Identified
 - Menu Management via Odoo Website/Backend to ensure delivery platform consistency.
 - Cloud Backup System for disaster recovery.
 
-### Implementation of Kopi Gaiyo POS (Technical & Functional Overview)
+### Implementation of Kopi Gayo POS (Technical & Functional Overview)
 ![](https://github.com/wyntr-kirlan/Iyan_Portofolio/blob/374a55d0e82214f6b680df34d85bd9f408a9853d/ERP%20Project/Kopi%20Gayo/Workflow%20Kopi%20Gayo.png)
 
 **Hybrid Architecture Diagram**:
