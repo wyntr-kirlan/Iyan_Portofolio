@@ -40,11 +40,8 @@ Business Problems Identified
 ![](https://github.com/wyntr-kirlan/Iyan_Portofolio/blob/374a55d0e82214f6b680df34d85bd9f408a9853d/ERP%20Project/Kopi%20Gayo/Workflow%20Kopi%20Gayo.png)
 
 **Hybrid Architecture Diagram**:
+![](https://github.com/wyntr-kirlan/Iyan_Portofolio/blob/003a740d9176bf56a34b3526ef09f43e4311530c/ERP%20Project/Kopi%20Gayo/Implementasi%20of%20kopi%20gayo.png)
   Outlet POS → Home Server (Odoo + PostgreSQL) → Cloud Backup/Remote Access
-- Outlets operate with Odoo POS front-end.
-- All transactional data is pushed to the home server running Odoo + PostgreSQL.
-- Automatic replication to cloud storage ensures data security.
-- Admin dashboard accessed remotely for monitoring sales & stock.
 
 ### Detailed Workflows: 
 **POS Transaction Workflow**
