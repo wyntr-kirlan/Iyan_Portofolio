@@ -3,7 +3,7 @@
 ## Overview
 This is my personal portfolio project built with Angular, showcasing my projects.
 
-## Divide This Project into 2 part UI/UX Design and Frontend Engineer
+## Divide This Project into 3 part ERP , UI/UX Design and Frontend Engineer
 
 * Software Aplication: VS Code, Visual Studio, & Figma 
 * *You can take a look in my linkedin:* [Wiyantoro](https://www.linkedin.com/in/wiyantoro/)
@@ -19,6 +19,15 @@ This is my personal portfolio project built with Angular, showcasing my projects
 - Home, About, Projects, and Contact sections
 - Fully responsive and optimized for various devices
 - Clean, minimalistic UI focused on usability
+
+## ERP
+*Combining functional analysis and technical understanding to deliver ERP systems that are stable, optimized, and aligned with real business goals—ensuring every process is reliable, automated, and easy for users to adopt.*
+
+### [Implementation of Odoo ERP for Kopi Gayo (Multi-Outlet Coffee Shop)](https://github.com/wyntr-kirlan/Iyan_Portofolio/blob/d917ee411523447ab7ab5bfcff8d3a0c35cf04be/ERP%20Project/Kopi%20Gayo/readme.md)
+![](https://github.com/wyntr-kirlan/Iyan_Portofolio/blob/aa2572e5b67fc2c93a3582653c92fef300085bba/ERP%20Project/Kopi%20Gayo/Backgroud%20kopi%20gayo.png)
+In this project, I planned and designed the entire ERP blueprint, including:
+Business process mapping , Workflow diagrams (POS, QRIS, Delivery) , System architecture design , Module selection & configuration planning , Requirements gathering , Training and documentation preparation
+
 
 ## UI/UX Desgin
 *Transforming complex ideas into clean, user-friendly interfaces by leveraging the latest UI/UX trends to create responsive, interactive, and seamless digital experiences while bridging the gap between design and development for optimal user satisfaction.*
