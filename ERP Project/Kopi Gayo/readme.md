@@ -22,10 +22,12 @@ This project focuses on creating a dynamic Power BI dashboard to visualize ESG p
 
 ### Problems & System Solutions Using Odoo
 Business Problems Identified
-1. **Stock inconsistencies across outlets**: Manual stock updates caused discrepancies between physical stock and system records.
-2. **Lack of centralized data**: Sales, cash flow, and delivery transactions were scattered across spreadsheets and delivery apps.
+1. **Inventory Management Challenges**: Manual stock updates, Inaccurate Real-Time Stock Level, Complex Recipe Tracking (Bill Of Material), Coffee Bean Freshness Tracking.
+2. **No real-tiime Sales Dashboard**: Does not provide a real-time updated sales data display.
 3. **Manual reconciliation of QRIS, cash, and EDC payments**: Cashiers often made mistakes recording payment types.
 4. **Slow reporting and no real-time dashboards**: Decision-making required waiting for end-of-day manual reports.
+5. **Poor Reporting Data Analysis**: The POS does not provide advanced reporting and Business Intelligence (BI) tools to analyze sales trends, peak hours, and product performance.
+6. **Complex POS Interface and Staff Training**: An unintuitive or overly complex POS interface requires extensive staff training.
 
 #### System Solutions Implemented with Odoo
 - Odoo POS to centralize outlet transactions.
