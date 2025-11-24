@@ -36,7 +36,7 @@ Business Problems Identified
 - Odoo Users & Access Rights for cashier and manager roles.
 - QRIS Integration (via Midtrans – planned) for seamless digital payments.
 - Menu Management via Odoo Website/Backend to ensure delivery platform consistency.
-- Cloud Backup System for disaster recovery.
+- Cloud Backup to Homelab Server for disaster recovery.
 
 ### Implementation of Kopi Gayo POS (Technical & Functional Overview)
 ![](https://github.com/wyntr-kirlan/Iyan_Portofolio/blob/374a55d0e82214f6b680df34d85bd9f408a9853d/ERP%20Project/Kopi%20Gayo/Workflow%20Kopi%20Gayo.png)
